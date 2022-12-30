@@ -1,0 +1,8 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+
+ [submodule "quickstart"]
+    path = quickstart
+    url = ../quickstart
+    branch = main
